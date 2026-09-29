@@ -1,4 +1,4 @@
-# Project 3 – AWS Network Architecture
+# Project 2 – AWS Network Architecture
 
 ## Objective
 
